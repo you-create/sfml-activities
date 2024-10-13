@@ -1,0 +1,3 @@
+/Users/lev/CLionProjects/2d-game/cmake-build-debug/CMakeFiles/HelloSFML.dir
+/Users/lev/CLionProjects/2d-game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lev/CLionProjects/2d-game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
